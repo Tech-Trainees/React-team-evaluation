@@ -1,0 +1,201 @@
+.wash-face{
+    position: absolute;
+width: 510px;
+height: 324px;
+left: 0px;
+top: 10302px;
+    background: url(../images/face-wash.png);
+}
+.clearance-sale{
+    position: absolute;
+    width: 420px;
+    height: 364px;
+    left: 510px;
+    top: 10282px;
+    
+    background: #FBE0DA;
+}
+.make-up-girl{
+    background:url(../images/makeup-girl.png);
+    position: absolute;
+width: 510px;
+height: 324px;
+left: 930px;
+top: 10302px;
+}
+.you-dont-want{
+    width: 194px;
+    height: 20px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 600;
+    top:72px;
+    left:100.5px;
+    color: #231F20;
+    line-height: 19px;
+    white-space: nowrap;
+}
+.sale{
+    width: 243px;
+height: 120px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 120%;
+text-align: center;
+text-transform: capitalize;
+color: #231F20;
+flex: none;
+order: 1;
+flex-grow: 0;
+position: absolute;
+left:86px;
+right:91px;
+top:104px;
+bottom:140px;
+}
+.for-him{
+    position: absolute;
+width: 109px;
+height: 43px;
+left: 86px;
+top: 268px;
+display: flex;
+margin:2px;
+padding: 14px 25px;
+gap:10px;
+border: none;
+
+background: #231F20;
+text-align: center;
+white-space: nowrap;
+color: #DEA3B7;
+}
+.for-her{
+    position: absolute;
+width: 109px;
+height: 43px;
+left: 214px;
+right:95px;
+top: 268px;
+display: flex;
+margin:2px;
+padding: 14px 25px;
+gap:10px;
+border: none;
+
+background: #231F20;
+text-align: center;
+white-space: nowrap;
+color: #DEA3B7;
+}
+.first-citizen{
+    background:url(../images/first_citizen.png);
+    position: absolute;
+width: 1272px;
+height: 399px;
+left: 44px;
+top: 10686px;
+}
+.border-for-first-citizen{
+    position: absolute;
+width: 297px;
+height: 188.96px;
+left: 481px;
+right:493px;
+top: 161.96px;
+border: 3px solid #FFFFFF;
+filter: drop-shadow(0px 4px 10px rgba(255, 255, 255, 0.25));
+border-radius: 5px;
+}
+.first-citizen-intro{
+    position: absolute;
+width: 817px;
+height: 139px;
+left: 215px;
+right:240px;
+top: 14px;
+background: #3A3A3A;
+}
+.small-intro{
+    position: absolute;
+width: 81px;
+height: 22px;
+left: 380px;
+right:356px;
+top: 16px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Primary/White */
+
+color: #FFFFFF;
+}
+.all-new-first{
+    position: absolute;
+width: 643px;
+height: 57px;
+left: 99px;
+top: 40px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 142%;
+/* identical to box height, or 57px */
+
+text-align: center;
+text-transform: capitalize;
+
+/* Primary/White */
+
+color: #FFFFFF;
+}
+.new-moment{
+    position: absolute;
+width: 311px;
+height: 22px;
+left: 265px;
+right:241px;
+top: 103px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+/* Primary/Black/Black 40% */
+
+color: #A7A5A6;
+}
+
+.first-citizen-pic{
+/* z-index: -1; */
+position: absolute;
+width: 113px;
+height: 107px;
+left: 1159px;
+top: 0px;
+background-color:#3a3a3a;
+}
+.first-citizen-pic-sub{
+
+    position: absolute;
+    background: url(../images/first-citizen-pic.png);
+}

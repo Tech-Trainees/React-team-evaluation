@@ -1,0 +1,248 @@
+.category{
+    position: absolute;
+    background-color: #f4f4f4;
+    top:7310px;
+    height:1002px;
+    width:1440px;
+}
+.focus_name{
+position: absolute;
+top:7308px;
+left:602px;
+height:24px;
+width:237px;
+Font-family: Helvetica;
+Font-size: 20px;
+Line-height: 100%;
+text-Align: Center;
+Vertical-align: Top;
+Letter-spacing: 10%;
+}
+.olayimg{
+    position: absolute;
+    top:7335px;
+    left:84px;
+    height:420px;
+    width:412px;
+}
+.olayimg_background{
+    position: absolute;
+    top:7706px;
+    left:84px;
+    height:50px;
+    width:412px;
+    background-color: #231f20;
+}
+.Shop_now{
+    position: absolute;
+    top:7716px;
+    left:253px;
+    height:16px;
+    width:75px;
+    color:rgba(222,163,183,1);
+    Font-family: Helvetica;
+Font-style: Medium;
+Font-size: 12px;
+Line-height: 16px;
+text-Align: Center;
+Vertical-align: Top;
+Letter-spacing: 1px;
+}
+.Retinol{
+    position: absolute;
+    top:7378px;
+    left:514px;
+    height:399px;
+    width:412px;
+}
+.Retinol_background{
+    position: absolute;
+    top:7378px;
+    left:514px;
+    height:50.38px;
+    width:412px;
+    background-color: #231f20;
+}
+.Shop_now2{
+    position: absolute;
+    top:7395.13px;
+    left:683px;
+    height:16.12px;
+    width:75px;
+    color:rgba(222,163,183,1);
+    Font-family: Helvetica;
+Font-style: Medium;
+Font-size: 12px;
+Line-height: 16px;
+text-Align: Center;
+Vertical-align: Top;
+Letter-spacing: 1px;
+}
+.olay_paragrap_background{
+    position: absolute;
+    top:7335px;
+    left:944px;
+    height:442px;
+    width:412px;
+    background-color: #231f20;
+}
+.Olay_name{
+    position: absolute;
+    left:131px;
+    height:57.32px;
+    width:185px;
+    font-family:Lucida,Sans;
+    color:#ffffff;
+    font-size: 60px;
+    top:70px;
+}
+.vartical_line{
+position: absolute;
+left:121px;
+    height:1px;
+    width:185px;
+    font-family:Lucida,Sans;
+    background-color:#ffffff;
+    top:175px;
+    border: 1px inset;
+    border-radius: 50px;
+}
+.olay_paragrap{
+    position: absolute;
+    top:187.32px;
+    left:60.56px;
+    width:335px;
+    Font-family: Helvetica;
+Font-size: 20px;
+Line-height: 140%;
+text-Align: Center;
+Vertical-align: Top;
+color: #ffffff;
+}
+.background_skincare{
+    position: absolute;
+    top:7817px;
+    left:84px;
+    width:411px;
+    height:398px;
+    background-color: #ffffff;
+}
+.Skincare{
+    position: absolute;
+    top:80px;
+    left:103px;
+    height:61px;
+    width:209px;
+    font:Helvetica Neue;
+    Font-family: Helvetica Neue;
+Font-style: Bold;
+Font-size: 50px;
+Line-height: 100%;
+text-Align: Center;
+Vertical-align: Top;
+Fill: Solid #231F20;
+}
+.skincare_paragrap{
+    position: absolute;
+    top:163px;
+    left:75px;
+    height: 33px;
+    width:258px;
+Font-size: 20px;
+Line-height:26px;
+text-Align: Center;
+Vertical-align: Top;
+}
+.mineral{
+    position: absolute;
+    top:7817px;
+    left:514px;
+    height:398px;
+    width:269px;
+}
+.mineral_background{
+    position:absolute;
+    top:8151px;
+    left:514px;
+    height:58px;
+    width:269px;
+    background-color: #231F20;
+}
+.olay_skin{
+    position: absolute;
+    top:13px;
+    left:99px;
+    height:16px;
+    width:71px;
+Font-size: 12px;
+Line-height: 16px;
+text-Align: Left;
+Vertical-align: Top;
+Letter-spacing: 1px;
+color:#DEA3B7;
+}
+
+.Mamaearth_1{
+    position: absolute;
+    top:7816px;
+    left:804px;
+    height:398px;
+    width: 269px;
+    background-color: #231F20;
+}
+
+.Mamaearth_background{
+    position: absolute;
+    top:7816px;
+    left:804px;
+    height:60px;
+    width:269px;
+    opacity: 9;
+    background-color: #231F20;
+}
+
+.Mamaearth_name{
+    position: absolute;
+    top:13px;
+    left:85px;
+    height:16px;
+    width:86px;
+    Font-size: 12px;
+Line-height: 16px;
+text-Align: Left;
+Vertical-align: Top;
+Letter-spacing: 1px;
+color:#DEA3B7;
+}
+
+.aveeno_img{
+    position: absolute;
+    top:7818px;
+    left:1090px;
+    height:394px;
+    width:269px;
+}
+
+.aveeno_background{
+    position: absolute;
+    top:8151px;
+    left:1090px;
+    width:269px;
+    height:60px;
+    background-color: #231f20;
+}
+
+.aveeno{
+    position: absolute;
+    top:13px;
+    left:85px;
+    height:16px;
+    width:86px;
+    Font-size: 12px;
+Line-height: 16px;
+text-Align: Left;
+Vertical-align: Top;
+Letter-spacing: 1px;
+color:#DEA3B7;
+
+}

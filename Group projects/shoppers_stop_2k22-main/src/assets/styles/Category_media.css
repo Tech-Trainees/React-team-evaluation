@@ -1,0 +1,253 @@
+@media(max-width:350px){
+    .category{
+        position: absolute;
+       background: #f4f4f4;
+        top:7276px;
+        height:740px;
+        width:360px;
+    }
+    .focus_name{
+        position: absolute;
+        top:7261px;
+        left:109px;
+        height:14px;
+        width:143px;
+        Font-family: Helvetica;
+        Font-size: 12px;
+        Line-height: 100%;
+        text-Align: Center;
+        Vertical-align: Top;
+        Letter-spacing: 10%;
+        }
+        .olay_paragrap_background{
+            position: absolute;
+            top:7289px;
+            left:16px;
+            height:145px;
+            width:328px;
+            background-color: #231f20;
+        }
+        .Olay_name{
+            position: absolute;
+            left:96px;
+            height:28.71px;
+            width:92.64px;
+            font-family:Lucida,Sans;
+            color:#ffffff;
+            font-size: 40px;
+            top:-10px;
+        }
+        .olay_paragrap{
+            position: absolute;
+            top:51px;
+            left:26px;
+            width:264px;
+            Font-family: Helvetica;
+        Font-size: 14px;
+        line-height:17px;
+        Line-height: 140%;
+        text-Align: Center;
+        Vertical-align: Top;
+        color: #ffffff;
+        }
+        .vartical_line{
+            position: absolute;
+            left:63px;
+                height:1px;
+                width:185px;
+                font-family:Lucida,Sans;
+                background-color:#ffffff;
+                top:59px;
+                border: 1px inset;
+                border-radius: 50px;
+            }
+        .olayimg{
+            position: absolute;
+            top: 7443px;
+            left:16px;
+            height:160px;
+            width:160px;
+        }
+        .olayimg_background{
+            position: absolute;
+            top:7602px;
+            left:16px;
+            height:28px;
+            width:160px;
+            gap:10px;
+            background-color: #231f20;
+        }
+        .Shop_now{
+            position: absolute;
+            top:7601px;
+            left:61px;
+            height:16px;
+            width:68px;
+            color:rgba(222,163,183,1);
+            Font-family: Helvetica;
+        Font-style: Medium;
+        Font-size: 10px;
+        Line-height: 16px;
+        text-Align: Center;
+        Vertical-align: Top;
+        Letter-spacing: 1px;
+        }
+        .Retinol_background{
+            position: absolute;
+            top: 7443px;
+            left:184px;
+            height:28px;
+            width:160px;
+            gap:10px;
+            background-color: #231f20;
+        }
+        .Shop_now2{
+            position: absolute;
+            top:7444px;
+            left:229px;
+            height:16px;
+            width:68px;
+            color:rgba(222,163,183,1);
+            Font-family: Helvetica;
+        Font-style: Medium;
+        Font-size: 10px;
+        Line-height: 16px;
+        text-Align: Center;
+        Vertical-align: Top;
+        Letter-spacing: 1px;
+        }
+        .Retinol{
+            position: absolute;
+            top:7470px;
+            left:184px;
+            height:160px;
+            width:160px;
+        }.background_skincare{
+            position: absolute;
+            top:7646px;
+            left:16px;
+            width:328px;
+            height:103px;
+            background-color: #ffffff;
+        }
+        .Skincare{
+            position: absolute;
+            top:3px;
+            left:113px;
+            height:20px;
+            width:78px;
+            font:Helvetica Neue;
+            Font-family: Helvetica Neue;
+        Font-style: Bold;
+        Font-size: 16px;
+        Line-height: 100%;
+        text-Align: Center;
+        Vertical-align: Top;
+        Fill: Solid #231F20;
+        }
+        .skincare_paragrap{
+            position: absolute;
+            top:18px;
+            left:11px;
+            height: 31px;
+            width:279px;
+        Font-size: 14px;
+        Line-height:15px;
+        text-Align: Center;
+        Vertical-align: Top;
+        }
+        .mineral{
+            position: absolute;
+            top:7760px;
+            left:17px;
+            height:140px;
+            width:104px;
+        }
+        .mineral_background{
+            position:absolute;
+            top:7898px;
+            left:17px;
+            height:28px;
+            width:104px;
+            gap:10px;
+            background-color: #231F20;
+        }
+        .olay_skin{
+            position: absolute;
+            top:0px;
+            left:19px;
+            height:16px;
+            width:66px;
+        Font-size: 11px;
+        Line-height: 16px;
+        text-Align: center;
+        Vertical-align: Top;
+        Letter-spacing: 1px;
+        color:#DEA3B7;
+        }
+        .Mamaearth_1{
+            position: absolute;
+            top:7759px;
+            left:129px;
+            height:140px;
+            width: 104px;
+          
+        }
+        
+        .Mamaearth_background{
+            position: absolute;
+            top:7898px;
+            left:129px;
+            height:28px;
+            width:104px;
+            gap:10px;
+            opacity: 9;
+            background-color: #231F20;
+        }
+        
+        .Mamaearth_name{
+            position: absolute;
+            top:0px;
+            left:13px;
+            height:16px;
+            width:79px;
+            Font-size: 11px;
+        Line-height: 16px;
+        text-Align: center;
+        Vertical-align: Top;
+        Letter-spacing: 1px;
+        color:#DEA3B7;
+        }
+        .aveeno_img{
+            position: absolute;
+            top:7759px;
+            left:239px;
+            height:140px;
+            width:104px;
+        }
+        
+        .aveeno_background{
+            position: absolute;
+            top:7898px;
+            left:239px;
+            width:104px;
+            height:28px;
+            gap:10px;
+            background-color: #231f20;
+        }
+        
+        .aveeno{
+            position: absolute;
+            top:0px;
+            left:28px;
+            height:16px;
+            width:49px;
+            Font-size: 11px;
+        Line-height: 16px;
+        text-Align: Left;
+        Vertical-align: Top;
+        Letter-spacing: 1px;
+        color:#DEA3B7;
+        
+        }
+}

@@ -1,0 +1,118 @@
+
+.mainbanner {
+    position: absolute;
+    left: 10%;
+    right: 0%;
+    top: 20%;
+    bottom: 0%;
+    height: 370px;
+    width: 1272px;
+    border-radius: 0px;
+}
+.mainbanner:hover{
+    cursor: pointer;
+}
+.mainbannerimgpos {
+    height: 370px;
+     width: 1272px; 
+     margin: 0 auto;
+     /* margin-left: -118px; */
+}
+ .slick-track{
+    /* width:1272px; */
+    /* height: 370px; */
+} 
+.bannerimgcss{
+    /* filter: back ; */
+    /* margin-left: -50px; */
+    height: 370px;
+    /* width: 1272px;
+    left: 0px;
+    top: 0px; */
+    border-radius: 0px;
+    background: #C4C4C4;
+
+}
+.slick-list{
+    height: 458px;
+     /* margin-right:20 20px;  */
+     /* width: 120%;  */
+}
+
+.bannertitle{
+    position: absolute;
+    left: 28.3%;
+    right: 27.91%;
+    top: 27.03%;
+    bottom: 56.76%;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 120%;
+/* identical to box height, or 60px */
+
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}
+
+.bannercaption{
+    position: absolute;
+left: 33.57%;
+right: 32.47%;
+top: 45.95%;
+bottom: 48.11%;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.btn-discover{
+    width: 105px;
+height: 16px;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+text-align: center;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+/* Primary/Velvet/Velvet 40% */
+
+color: #DEA3B7;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px 26px;
+gap: 10px;
+
+position: absolute;
+width: 157px;
+height: 44px;
+left: calc(50% - 157px/2 + 3px);
+top: calc(50% - 44px/2 + 59px);
+
+/* Primary/Black/Black #231F20 */
+
+background: #231F20;
+}

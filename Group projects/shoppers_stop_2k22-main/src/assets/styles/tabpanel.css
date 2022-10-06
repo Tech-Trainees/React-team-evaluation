@@ -1,0 +1,210 @@
+.beautylogo{
+position: absolute;
+width: 130px;
+height: 30px;
+left: 84px;
+top: 30px;
+}
+/* .mainsearch{
+box-sizing: border-box; 
+position: absolute;
+width: 307px;
+height: 36px;
+left: 299px;
+top: 14px;
+} */
+.css-8j6b76-MuiInputBase-root-MuiOutlinedInput-root {
+    height: 48px;
+    box-sizing: border-box; 
+position: absolute;
+width: 307px;
+height: 36px;
+left: 299px;
+top: 30px;
+border: 1px solid #E7E7E7;
+}
+
+.mainheader{
+overflow-x:hidden ;
+position: absolute;
+width: 100%;
+height: 40px;
+left: 0px;
+top: 0px;
+background: #dea3b736;
+/* opacity: 0.2; */
+}
+.mainheadercontentgta{
+    position: absolute;
+    left: 53.96%;
+    right: 77.8%;
+    top: 0%;
+    bottom: 5.56%;
+    width: 200px;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #231F20;
+}
+.mainheadercontentgta:hover{
+    cursor: pointer;
+}
+.mainheadercontentgc{
+    position: absolute;
+left: 61.96%;
+right: 77.8%;
+top: 0%;
+bottom: 5.56%;
+width: 200px;
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+}
+.mainheadercontentse{
+    position: absolute;
+    width: 200px;
+    left: 70.62%;
+    right: 54.09%;
+    top: 0%;
+    bottom: 5.56%;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.mainheadercontenth{
+    position: absolute;
+    width: 200px;
+    left: 93.53%;
+    right: 0%;
+    top: 0%;
+    bottom: 5.56%;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.mainheader-clr{
+    position: absolute;
+    left: 7.43%;
+    right: 84.31%;
+    top: 0.09%;
+    bottom: 99.77%;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    /* Primary/Black/Black #231F20 */
+    
+    color: #231F20;
+}
+.mainheader-clr:hover{
+    cursor: pointer;
+}
+#simple-tab-0{
+    position: absolute;
+    left: 41.03%;
+    right: 92.86%;
+    top: -6.25%;
+    bottom: -18.75%;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    /* Primary/Black/Black #231F20 */
+    
+    color: #231F20;
+    
+}
+#simple-tab-1{
+    position: absolute;
+left: 45.46%;
+right: 72.36%;
+top: -6.25%;
+bottom: -18.75%;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+/* Primary/Black/Black #231F20 */
+
+color: #231F20;
+
+}
+#simple-tab-2{
+position: absolute;
+left: 50.96%;
+right: 46.27%;
+top: 0px;
+bottom: -18.75%;
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-transform: capitalize;
+/* Primary/Black/Black #231F20 */
+color: #231F20;
+}
+#simple-tab-3{
+    /* font-family: Helvetica Neue; */
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+    position: absolute;
+    width: 152px;
+    left: 55.96%;
+    right: 46.27%;
+    top: 0px;
+    bottom: -18.75%;
+    
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    text-transform: capitalize;
+    /* Primary/Black/Black #231F20 */
+    color: #231F20;
+    }
+.MuiTabs-root{
+position: absolute;
+width: 100%;
+height: 80px;
+left: 0px;
+top: 40px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 24px rgba(0, 0, 0, 0.15);
+}

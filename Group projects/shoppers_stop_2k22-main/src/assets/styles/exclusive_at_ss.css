@@ -1,0 +1,267 @@
+.title {
+  position: absolute;
+  width: 293px;
+  height: 24px;
+  left: 573px;
+  top: 4971px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 24px;
+
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #1C191A;
+}
+
+.container {
+  display: flex;
+  position: absolute;
+  top: 5000px;
+
+  padding: 5px;
+  left: 30px;
+
+}
+
+.div1 {
+
+
+  height: 373px;
+  width: 635px;
+  left: 5px;
+
+  border-radius: 0px;
+
+  background: url(../images/image1.png);
+  position: absolute;
+
+  background-repeat: no-repeat;
+}
+
+.div2 {
+  background: url(../images/image2.png);
+ 
+  height: 374px;
+  width: 636.3123168945312px;
+  left: 650px;
+  
+  border-radius: 0px;
+
+  position: absolute;
+
+  border-radius: 0px;
+  background-repeat: no-repeat;
+}
+
+.div3 {
+
+  
+  height: 372px;
+  width: 633px;
+  left: 0px;
+ 
+  border-radius: 0px;
+
+  background: url(../images/image3.png);
+  position: absolute;
+  display: flex;
+  background-repeat: no-repeat;
+}
+
+.div4 {
+  background: url(../images/image4.png);
+  
+  height: 383px;
+  width: 632px;
+  left: 645px;
+  border-radius: 0px;
+
+  position: absolute;
+
+  border-radius: 0px;
+  display: grid;
+  background-repeat: no-repeat;
+}
+
+.forFlex {
+  position: absolute;
+  display: flex;
+  top: 302px
+}
+.rectangle1{
+  position: absolute;
+  width: 400px;
+  height: 90px;
+  left: 120px;
+top:180px;
+  
+  background: #231F20;
+  opacity: 0.7;
+  backdrop-filter: blur(77px);
+}
+.rectText1{
+  position: absolute;
+  left: 30.07%;
+  right: 67.84%;
+  top: 22.43%;
+  bottom: 57.31%;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 145% */
+  
+  text-align: center;
+  
+  white-space: nowrap;
+  color: #FFFFFF;
+
+  text-transform: uppercase;
+}
+.rectText2{
+  position: absolute;
+  left: 13.07%;
+  right: 67.84%;
+  top: 22.43%;
+bottom: 57.31%;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+/* identical to box height, or 145% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+white-space: nowrap;
+}
+.rectText3{
+  position: absolute;
+  left: 33.07%;
+  right: 67.84%;
+  top: 22.43%;
+bottom: 54.88%;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+/* identical to box height, or 145% */
+
+text-align: center;
+text-transform: uppercase;
+
+white-space: nowrap;
+
+color: #FFFFFF;
+
+}
+.rectText4{
+  position: absolute;
+  left: 33.07%;
+  right: 67.84%;
+  top: 22.43%;
+bottom: 54.88%;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+
+text-align: center;
+text-transform: uppercase;
+
+white-space: nowrap;
+color: #FFFFFF
+}
+.subtext{
+  position: absolute;
+left: 19.38%;
+right: 64.18%;
+top: 59.71%;
+bottom: 57.14%;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* or 21px */
+
+text-align: center;
+text-transform: capitalize;
+
+white-space: nowrap;
+color: #FFFFFF;
+}
+@media screen and (max-width: 500px) {
+ 
+  .title{
+    position: absolute;
+left:96px;
+
+width:176px;
+height:14px;
+font-family:Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+white-space:nowrap;
+
+color: #231F20;
+  }
+  .div1{
+    position: absolute;
+ width:500px;
+right: 0%;
+top: 0%;
+/* width:1500px; */
+  left:10px;
+  }
+  .div2{
+    position: absolute;
+    left: 10px;
+    top:300px;
+    display:block;
+   
+  }
+  .forFlex{
+    position: absolute;
+    width:100%;
+  }
+  .div3{
+    position:absolute;
+    left:10px;
+    top:300px;
+  }
+  .div4{
+    position:absolute;
+    left:10px;
+    top:600px;
+  }
+  .rectangle1{
+    position: absolute;
+width:80%;
+left:0px;
+background: #231F20;
+opacity: 0.7;
+backdrop-filter: blur(4px);
+  }
+}

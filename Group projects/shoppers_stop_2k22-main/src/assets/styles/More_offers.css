@@ -1,0 +1,229 @@
+.More_offers{
+    position: absolute;
+}
+.More_offers_header{
+    position: absolute;
+    width:162px;
+    height:24px;
+    left:639px;
+    top:6521px;
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+.more_dic{
+    width:162px;
+    height:24px;
+    left:639px;
+    top:6521px;
+}
+.Elizabetha{
+    position: absolute;
+    left: 5.83%;
+    right: 50.56%;
+    left:84px;
+    height:369px;
+    top:6589px;
+    width:628px;
+}
+.Colorbar{
+        position: absolute;
+        left: 729px;
+        right: 50.56%;
+        top:6589px;
+        left:729px;
+        height:369px;
+        width:628px;
+ }
+ .Arcela{
+    position: absolute;
+    right: 50.56%;
+    left:84px;
+    height:280px;
+    top:6979px;
+    width:628px;
+}
+.Mamaearth{
+    position: absolute;
+    left: 729px;
+    right: 50.56%;
+    top:6979px;
+    left:729px;
+    height:280px;
+    width:628px;
+}
+.border_box1{
+    position: absolute;
+    box-sizing: border-box;
+    width:603px;
+    height:317px;
+    left:96px;
+    top:6618px;
+    opacity: 90%;
+    border: 1px solid #FFFFFF;
+}
+.border_box2{
+    position: absolute;
+    box-sizing: border-box;
+    width:603px;
+    height:317px;
+    left:741px;
+    top:6618px;
+    opacity: 90%;
+    border: 1px solid #FFFFFF;
+}
+.border_box3{
+    position: absolute;
+    box-sizing: border-box;
+    width:603px;
+    height:237px;
+    left:96px;
+    top:7001px;
+    opacity: 90%;
+    border: 1px solid #FFFFFF;
+}
+.border_box4{
+    position: absolute;
+    box-sizing: border-box;
+    width:603px;
+    height:237px;
+    left:741px;
+    top:7001px;
+    opacity: 90%;
+    border: 1px solid #FFFFFF;
+}
+.Elizabeth_background{
+    position: absolute;
+    width:400px;
+    height:90px;
+    top:6811px;
+    left:198px;
+    opacity: 85%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.Elizabeth_Arden{
+ position: absolute;
+top:-4px;
+left:92px;
+Font-family: Helvetica ;
+Font-style: Medium;
+Font-size: 22px;
+Line-height: 32px;
+text-Align: Center;
+Vertical-align: Top
+}
+.Flate{
+position: absolute;
+top:21px;
+left:140px;
+Font-family: Helvetica ;
+Font-style: Medium;
+Font-size: 22px;
+Line-height: 32px;
+text-Align: Center;
+Vertical-align: Top
+}
+.Colorbar_background{
+    position: absolute;
+    width:400px;
+    height:90px;
+    top:6811px;
+    left:843px;
+    opacity: 85%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.Colorbar_name{
+    position: absolute;
+   top:-4px;
+   left:139px;
+   Font-family: Helvetica ;
+   Font-style: Medium;
+   Font-size: 22px;
+   Line-height: 32px;
+   text-Align: Center;
+   Vertical-align: Top
+   }
+   .colorbar_Flate{
+   position: absolute;
+   top:29px;
+   left:158px;
+   Font-family: Helvetica ;
+   Font-style: Medium;
+   Font-size: 18px;
+   Line-height: 21px;
+   text-Align: Center;
+   Vertical-align: Top
+   }
+   .Arcelia_background{
+    position: absolute;
+    width:400px;
+    height:90px;
+    top:7123px;
+    left:194px;
+    opacity: 85%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.Arcelia_name{
+    position: absolute;
+   top:-4px;
+   left:139px;
+   Font-family: Helvetica ;
+   Font-style: Medium;
+   Font-size: 22px;
+   Line-height: 32px;
+   text-Align: Center;
+   Vertical-align: Top
+   }
+   .Arcelia_Flate{
+   position: absolute;
+   top:29px;
+   left:141px;
+   Font-family: Helvetica ;
+   Font-style: Medium;
+   Font-size: 18px;
+   Line-height: 21px;
+   text-Align: Center;
+   Vertical-align: Top
+   }
+   .Earth_background{
+    position: absolute;
+    width:400px;
+    height:90px;
+    top:7123px;
+    left:843px;
+    opacity: 85%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.Mama_earth_name{
+    position: absolute;
+   top:-4px;
+   left:139px;
+   Font-family: Helvetica ;
+   Font-style: Medium;
+   Font-size: 22px;
+   Line-height: 32px;
+   text-Align: Center;
+   Vertical-align: Top
+   }
+   .Mamaearth_Flate{
+   position: absolute;
+   top:29px;
+   left:158px;
+   Font-family: Helvetica ;
+   Font-style: Medium;
+   Font-size: 18px;
+   Line-height: 21px;
+   text-Align: Center;
+   Vertical-align: Top
+   }

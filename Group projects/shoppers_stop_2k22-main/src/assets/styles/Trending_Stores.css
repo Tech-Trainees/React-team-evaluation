@@ -1,0 +1,101 @@
+.MainTrending_storesdiv{
+    position: relative;
+    cursor: pointer;
+}
+.Trending_stores{
+    position: absolute;
+    width: 213px;
+    height: 24px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #1C191A;
+    left: 565px;
+    top: 40px;
+    cursor: pointer;
+}
+.MainTrending_stores{
+    position: absolute;
+    height: 402px;
+    left: 0px;
+    right: 0px;
+    top: 300px;
+    background: #F7F6F9; 
+    cursor: pointer;
+    }
+.MakeUpimg{
+    position: absolute;
+    width: 627px;
+    height: 280px;
+    left: 42px;
+    top: 82px;
+    cursor: pointer;
+}
+.The_BestDealsimg{
+    position: absolute;
+    width: 627px;
+    height: 280px;
+    left: 682px;
+    top: 82px;
+    cursor: pointer;
+}
+
+@media (max-width:350px) {
+    .Trending_stores{
+        position: absolute;
+        width: 128px;
+        height: 14px;
+        left: 100px;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: #1C191A;
+        cursor: pointer;
+    }
+    .MakeUpimg{
+        position: absolute;
+        width: 328px;
+        height: 146px;
+        left: 2px;
+        cursor: pointer;
+    }
+    .MakeUp{
+        width: 328px;
+        height: 146px;
+        cursor: pointer;
+    }
+    .The_BestDeals{
+        width: 328px;
+        height: 146px;
+        cursor: pointer;
+    }
+    .The_BestDealsimg{
+        position: absolute;
+        width: 328px;
+        height: 146px;
+        left: 2px;
+        top: 238px;
+        cursor: pointer;
+    }
+    .MainTrending_stores{
+        position: absolute;
+        height: 402px;
+        left: 0px;
+        right: 0px;
+        top: 20px;
+        background: #F7F6F9; 
+        cursor: pointer;
+        }
+}

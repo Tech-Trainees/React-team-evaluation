@@ -1,0 +1,376 @@
+.categories_for_you{
+    position: absolute;
+    width: 306px;
+    height: 24px;
+    left: 536px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.3px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #1C191A;
+    cursor: pointer;
+}
+.Ellipse18img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 101px;
+    text-align: center;
+    cursor: pointer;
+}
+.Ellipse18imgcircle{
+    border: 1px solid #D1D0CE;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.Ellipse18img_caption{
+    position: absolute;
+    width: 107px;
+    height: 27px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135%;
+    text-transform: capitalize;
+    color: #231F20; 
+    left: 48px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.Ellipse18_1img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 356px;
+    cursor: pointer;
+}
+.Ellipse18_1img_caption{
+    position: absolute;
+    width: 112px;
+    height: 27px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135%;
+    text-transform: capitalize;
+    color: #231F20;
+    left: 48px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.Ellipse18_2img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 620px;
+    cursor: pointer;
+    
+}
+.Ellipse18_2img_caption{
+    position: absolute;
+    width: 73px;
+    height: 27px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135%;
+    text-transform: capitalize;
+    color: #231F20;
+    left: 62px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.Ellipse18_3img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 884px;
+    cursor: pointer;
+}
+.Ellipse18_3img_caption{
+    position: absolute;
+    width: 39px;
+    height: 27px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135%;
+    text-transform: capitalize;
+    color: #231F20;
+    left: 76px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.Ellipse18_4img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1148px;
+    cursor: pointer;
+}
+.Ellipse18_4img_caption{
+    position: absolute;
+    width: 37px;
+    height: 27px;
+    /* font-family: 'Helvetica Neue'; */
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135%;
+    text-transform: capitalize;
+    color: #231F20;
+    left: 83px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.MainEllipse18img{
+    position: relative;
+    left: -50px;
+    top: 40px;
+    cursor: pointer;
+}
+.Maincategories_for_you{
+    position: relative;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.Ellipse351img{
+    display: none;
+}
+
+@media (max-width:350px) {
+    .categories_for_you{
+        position: absolute;
+        width: 184px;
+        height: 14px;
+        left: 92px;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: #1C191A;
+        cursor: pointer;
+    }
+    .Ellipse18img{
+        position: relative;
+        width: 82px;
+        height: 82px;
+        /* left: 90px; */
+        left: 3px;
+        margin-bottom: 40px;
+        cursor: pointer;
+    }
+    .Face_Wash{
+        width: 82px;
+        height: 82px;
+        cursor: pointer;
+    }
+    .fragrance{
+        width: 82px;
+        height: 82px;
+        cursor: pointer;
+    }
+    .lipstick{
+        width: 82px;
+        height: 82px;
+        cursor: pointer;
+    }
+    .body_lotion{
+        width: 82px;
+        height: 82px;
+        cursor: pointer;
+    }
+    .Hair_cream{
+        width: 82px;
+        height: 82px;
+        cursor: pointer;
+    }
+    .Ellipse18img_caption{
+        position: absolute;
+        left: 15%;
+        right: 0%;
+        bottom: 0%;
+        top: 95%;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 135%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        color: #231F20;
+        cursor: pointer;
+    }
+    .Ellipse18_1img{
+        position: relative;
+        width: 82px;
+        height: 82px;
+        left: 3px;
+        margin-bottom: 40px;
+        cursor: pointer;
+    }
+    .Ellipse18_2img{
+        position: relative;
+        width: 82px;
+        height: 82px;
+        left: 3px;
+        margin-bottom: 40px;
+        cursor: pointer;
+    }
+    .Ellipse18_3img{
+        position: relative;
+        width: 82px;
+        height: 82px;
+        left: 3px;
+        margin-bottom: 40px;
+        cursor: pointer;
+    }
+    .Ellipse18_4img{
+        position: relative;
+        width: 82px;
+        height: 82px;
+        left: 3px;
+        margin-bottom: 40px;
+        cursor: pointer;
+    }
+    .Ellipse351img{
+        position: relative;
+        display: block;
+        width: 82px;
+        height: 82px;
+        left: 3px;
+        margin-bottom: 40px;
+        cursor: pointer;
+    }
+    .MainEllipse18img{
+        position: relative;
+        display: grid;
+        left: 8px;
+        grid-template-columns: auto auto auto;
+        cursor: pointer;
+    }
+    .Ellipse18_1img_caption{
+        position: absolute;
+        left: 15%;
+        right: 0%;
+        top: 90%;
+        bottom: 0%;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 135%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        color: #231F20;
+        cursor: pointer;
+    }
+    .Ellipse18_2img_caption{
+        position: absolute;
+        left: 24%;
+        right: 0%;
+        top: 90%;
+        bottom: 0%;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 135%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        color: #231F20;
+        cursor: pointer;
+    }
+    .Ellipse18_3img_caption{
+        position: absolute;
+        left: 35%;
+        right: 0%;
+        top: 90%;
+        bottom: 0%;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 135%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        color: #231F20;
+        cursor: pointer;
+    }
+    .Ellipse18_4img_caption{
+        position: absolute;
+        left: 37%;
+        right: 0%;
+        top: 90%;
+        bottom: 0%;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 135%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        color: #231F20;
+        cursor: pointer;
+    }
+    .Ellipse351img_caption{
+        position: absolute;
+        left: 28%;
+        right: 0%;
+        top: 114%;
+        bottom: 0%;
+        /* font-family: 'Helvetica Neue'; */
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 135%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-transform: capitalize;
+        color: #231F20;
+        cursor: pointer;
+    }
+    .Ellipse18imgcircle{
+        border: 1px solid #D1D0CE;
+        width: 82px;
+        height: 82px;
+        border-radius: 50%;
+    }
+}
